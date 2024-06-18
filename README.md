@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nareswara Maulana</h1>
 <h3 align="center">I'am a junior Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Next JS, Typescript, Laravel**
+- 🌱 I’m currently learning **Next JS, Typescript, and Laravel**
 
 - 📫 How to reach me **naresalhaq9@gmail.com**
 
