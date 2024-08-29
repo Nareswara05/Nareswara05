@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nareswara Maulana</h1>
-<h3 align="center">I'am a junior Frontend Developer & UI/UX Designer</h3>
+<h3 align="center">I'am a junior Frontend Web Developer & UI/UX Designer</h3>
 
 - 🌱 I’m currently learning **Next JS, Typescript, and Laravel**
 
