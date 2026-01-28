@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Nareswara+Maulana;Creative+Frontend+Dev;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nareswara05&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
